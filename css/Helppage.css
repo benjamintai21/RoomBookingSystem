@@ -1,0 +1,21 @@
+h1{
+    font-family: "Chronicle Display A","Chronicle Display B","Times New Roman",Times,serif;
+    font-size: 2.0625rem;
+    line-height: 1;
+    margin-top: 1em;
+    margin-bottom: 15px;
+    color: #ed0a00;
+    font-weight: 300;
+}
+li{
+    font-size: 20px;
+}
+
+strong{
+    font-weight: 600;
+    line-height: inherit
+}
+.sppage{
+    text-align: left;
+}
+

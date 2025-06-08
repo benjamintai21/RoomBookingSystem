@@ -1,0 +1,35 @@
+.launchbutton1{
+    height: 25px;
+    width: 115px;
+    padding: 10px 5px 35px;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    border: 2px solid #009688;
+    color: #555;
+    cursor:pointer;
+    font-size: 20px;
+}
+.launchbutton2{
+    height: 15px;
+    padding: 0px 5px 15px;
+    text-align: center;
+    margin: 0px 0px 0px;
+    border-radius: 15px;
+    font-weight: 300;
+    border: 2px solid #009688;
+    color: #555;
+    cursor: pointer;
+}
+i{
+    width: 20px;
+    text-align: center;
+}
+.tb1{
+    color: #535756;
+    font-weight: bold;
+    cursor: not-allowed;
+}
+
+
